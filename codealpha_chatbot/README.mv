@@ -1,0 +1,24 @@
+Project Name: Simple Chatbot Using Python
+
+Description:
+This is a basic text-based chatbot developed using Python. The chatbot interacts with users by responding to predefined messages. It continuously accepts user input and provides appropriate responses based on the entered text. The conversation continues until the user types "bye", which ends the chat session.
+
+Features:
+
+- Interactive text-based conversation
+- Responds to predefined user inputs
+- Handles greetings and basic queries
+- Provides a default response for unknown inputs
+- Ends the conversation when the user enters "bye"
+
+Concepts Used:
+
+- Functions
+- While loops
+- If-elif-else statements
+- String methods ("lower()")
+- User input and output
+- Loop control statements ("break")
+
+Outcome:
+This project helps in understanding the fundamentals of Python programming, including functions, loops, conditional statements, string handling, and user interaction. It demonstrates how a simple rule-based chatbot can be created using basic Python concepts.
